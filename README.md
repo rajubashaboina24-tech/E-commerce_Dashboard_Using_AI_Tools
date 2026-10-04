@@ -3,3 +3,6 @@ Created a dashboard using AI tools that helps businesses to identify trends, pat
 
 ## Interactive Dashboard Link
 <a href="https://knowledgeable-lifter-8l3.julius.site?utm_source=shared_artifact&ref=8DQ7H8HBGD6V">Dashboard<a>
+
+## AI Tools
+Using AI tools to identify trends, patterns, and business insights.
